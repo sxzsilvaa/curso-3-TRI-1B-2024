@@ -8,4 +8,12 @@ header{
 border: solid 2px blue;/*borda solida de px*/
 padding: 20px;/*espaçamento*/
 font-size: 32px;/*tamanho da fonte*/
+color: palevioletred;/*cor da fonte*/
+}
+
+
+section{
+background-color: blueviolet;
+padding-bottom: 80px;
+
 }
